@@ -14,7 +14,7 @@ If you want to ask me anything, please do it <a href="mailto:malheiro.gus@gmail.
 
 <div align="center">
 - 🔭 I’m currently working on back-end<br>
-- 🌱 I’m currently learning Python/REST API's<br>
+- 🌱 I’m currently learning C#/ASP.NET and REST API's<br>
 <br>
 </div>
 
@@ -26,7 +26,7 @@ If you want to ask me anything, please do it <a href="mailto:malheiro.gus@gmail.
   
 <div style="display: inline_block" align="center"><br>
 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c#-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
