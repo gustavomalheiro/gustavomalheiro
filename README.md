@@ -14,7 +14,7 @@ If you want to ask me anything, please do it <a href="mailto:malheiro.gus@gmail.
 
 <div align="center">
 - 🔭 I’m currently working on back-end<br>
-- 🌱 I’m currently learning C#/ASP.NET and REST API's<br>
+- 🌱 I’m currently learning C#/ASP.NET, REST API's and GameDev (PyGame) <br>
 <br>
 </div>
 
