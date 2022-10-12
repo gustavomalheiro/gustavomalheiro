@@ -42,7 +42,7 @@ If you want to ask me anything, please do it <a href="mailto:malheiro.gus@gmail.
   <a href="https://www.linkedin.com/in/gustavomalheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavomalheiro/gustavomalheiro/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **gustavomalheiro/gustavomalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
