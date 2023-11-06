@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Hello, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! My name is Gustavo! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! My name is Gustavo! 👋</h2>
 </div>
 
 <div align="center">
