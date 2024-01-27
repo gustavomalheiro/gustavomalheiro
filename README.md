@@ -37,8 +37,8 @@ C/C++ <img align="center" alt="Github" height="30" width="20" src="https://cdn.j
 💡 Ryzen 5 5600X<br>
 📝 16GB RAM<br>
 📹 Nvidia RTX 3060 TI<br>
-⌨️  Blitzwolf BW-KB0<br>
-🖱️ Logitech G403 Hero<br>
+⌨️ HyperX Alloy Origins<br>
+🖱️ Logitech G PRO Wireless<br>
 🎧 Redragon Zeus X<br>
 📟 Asus PRIME B450M-GAMING/BR<br>
 ⚙ Windows 10 
