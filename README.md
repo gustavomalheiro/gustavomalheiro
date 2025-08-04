@@ -1,54 +1,63 @@
-
 <div align="center">
-<h2> Hello, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! My name is Gustavo! 👋</h2>
-</div>
-
-<div align="center">
-(Java <img align="center" alt="Java" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| 
-Spring <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> | 
-HTML <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | 
-CSS <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | 
-Javascript <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> | 
-Python <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> | 
-C/C++ <img align="center" alt="Github" height="30" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>) 🚀
-</div>
-
-
-## About me
-- 👨‍💻 Back End Developer, focusing on learning [Java](https://www.java.com/pt-BR/) + [Spring Framework](https://spring.io/projects/spring-framework). I'm learning HTML, CSS and Javascript to be able to create interfaces to my API's!
-- 🛠 Service Desk Analyst @[Tecnocomp](https://tecnocomp.com.br)
-- 🏆 Accepted the #100DaysOfCode challenge! I'll share all the process and you can check at my  [X/Twitter](https://twitter.com/tantufaslol) account.
-- 🎓 Digital Games Student at @[FATEC](https://www.fatecsaocaetano.edu.br)
-- 🎻 Passionate about games, anime and music.
-- 🔧 I love eletronic gadgets and computer peripherals.
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomalheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomalheiro&layout=compact&langs_count=7&theme=dracula"/>
+  <h2>Hello, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I'm Gustavo 👋</h2>
 </div>
 
 <div align="center">
 
-<br>
-
-### 🖥️ PC Specs
-💡 Ryzen 5 5600X<br>
-📝 16GB RAM<br>
-📹 Nvidia RTX 3060 TI<br>
-⌨️ HyperX Alloy Origins<br>
-🖱️ Logitech G PRO Wireless<br>
-🎧 Redragon Zeus X<br>
-📟 Asus PRIME B450M-GAMING/BR<br>
-⚙ Windows 10 
+Java 
+<img alt="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> • 
+Spring 
+<img alt="Spring" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> • 
+Angular 
+<img alt="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> • 
+Python 
+<img alt="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<br>🚀
 </div>
 
-<br>
+---
+
+## 👨‍💻 Sobre mim
+
+- Desenvolvedor Back-End focado em Java + Spring Framework  
+- Experiência também com Angular para o desenvolvimento de interfaces front-end  
+- Atualmente atuando como Desenvolvedor Back End na [Onebox](https://www.onebox.one/)  
+- Formado em Análise e Desenvolvimento de Sistemas na [FATEC](https://www.fatecsaocaetano.edu.br)  
+- Apaixonado por games, música, anime e gadgets  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavomalheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomalheiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomalheiro/)](https://www.linkedin.com/in/gustavomalheiro/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gus.malheiro@gmail.com)](mailto:gus.malheiro@gmail.com)
+---
 
+## 🖥️ Setup
+
+| Componente | Detalhes |
+|------------|----------|
+| 💡 CPU | Ryzen 5 5600X |
+| 📝 RAM | 32GB |
+| 📹 GPU | Nvidia RTX 3060 TI |
+| ⌨️ Teclado | HyperX Alloy Origins |
+| 🖱️ Mouse | Logitech G PRO Wireless |
+| 🎧 Headset | Redragon Zeus X |
+| 📟 Placa-Mãe | Asus PRIME B450M-GAMING/BR |
+| ⚙️ SO | Ubuntu |
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavomalheiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-6633cc?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gus.malheiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6633cc?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </div>
